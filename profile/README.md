@@ -15,16 +15,15 @@
 </em></p> 
 
 <p align="center"><em>
-La aña teje la trama de temas relacionando conceptos e ideas. La aña completa y vincula casos de uso y ejemplos a la red de temas, <br/>
-y por último, la araña toma de la red lo necesario para montar su proyecto (la araña robot) <br/>
- a la ratona cliente. <br/>
+La araña teje la trama de temas relacionando conceptos e ideas. Completa y vincula casos de uso y ejemplos a la red de temas, <br/>
+y por último, toma de la red lo necesario para montar su proyecto (la araña robot) <br/>
  
 
 </em></p>
 
 ## Enlaces
 [Documentos y guías de ejercicios](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)
-
+[SpiderGamer](https://utn-frp-tup-aplicada-2026.github.io/juego/)
 ---
 
 ## ⚠️ Disclaimer
