@@ -22,8 +22,9 @@ y por último, toma de la red lo necesario para montar su proyecto (la araña ro
 </em></p>
 
 ## Enlaces
-[Documentos y guías de ejercicios](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)
-[SpiderGamer](https://utn-frp-tup-aplicada-2026.github.io/juego/)
+- [Documentos y guías de ejercicios](https://docs.google.com/document/d/1DqIdR3eF_wCuKoape8Uyuj-cWd9GSmbmj44MWs7jIjw/preview)
+
+- [SpiderGamer](https://utn-frp-tup-aplicada-2026.github.io/juego/)
 ---
 
 ## ⚠️ Disclaimer
